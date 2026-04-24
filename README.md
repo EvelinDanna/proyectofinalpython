@@ -2,7 +2,7 @@
 Este es el Proyecto Final de la Clase Submodulo 2 Codifica Software
 
 
-Integrantes de este equipo: NOMBRE1 y NOMBRE2
+Integrantes de este equipo: Evelin y Danna
 
 Avances al 24 de Abril de 2026
 
