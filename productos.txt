@@ -1,0 +1,5 @@
+1|pantalon mezclilla|200|ropa
+2|camisa blanca|150|ropa
+3|reloj|300|accesorios
+5|pelucas|280|accesorios
+6|aretes|70|accesorios7|lentes|500|accesorios1|pantalon|250|hombren1|playeras|600|ropan2|zapatos|1000|calzadon3|pelucas|800|accesoriosn4|lentes|900|accesoriosn5|pantalones|500|ropan
